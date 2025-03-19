@@ -1,0 +1,3 @@
+C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/CMakeFiles/Projekt.dir
+C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

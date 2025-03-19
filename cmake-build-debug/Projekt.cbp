@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Projekt"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\Users\;CMake Files\..\..\Users\kacpe\;CMake Files\..\..\Users\kacpe\OneDrive\;CMake Files\..\..\Users\kacpe\OneDrive\Studia\;CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\;CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\;CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\lib\;CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\lib\cmake\;CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/c92204cd-gr11-repo/Projekt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projekt">
+				<Option output="C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Projekt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c92204cd-gr11-repo/Projekt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/kacpe/OneDrive/Studia/PK4/SFML-2.6.1/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projekt"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projekt/fast">
+				<Option output="C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Projekt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/c92204cd-gr11-repo/Projekt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/kacpe/OneDrive/Studia/PK4/SFML-2.6.1/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projekt/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/c92204cd-gr11-repo/Projekt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/c92204cd-gr11-repo/Projekt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~2.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/c92204cd-gr11-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/Global.h">
+			<Option target="Projekt"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/Gracz.cpp">
+			<Option target="Projekt"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/Gracz.h">
+			<Option target="Projekt"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/interfejs.cpp">
+			<Option target="Projekt"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/interfejs.h">
+			<Option target="Projekt"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/main.cpp">
+			<Option target="Projekt"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/../../Users/kacpe/OneDrive/Studia/PK4/SFML-2.6.1/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/../../Users/kacpe/OneDrive/Studia/PK4/SFML-2.6.1/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/../../Users/kacpe/OneDrive/Studia/PK4/SFML-2.6.1/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/../../Users/kacpe/OneDrive/Studia/PK4/SFML-2.6.1/lib/cmake/SFML/SFMLSharedTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/../../Users/kacpe/OneDrive/Studia/PK4/SFML-2.6.1/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/c92204cd-gr11-repo/Projekt/../../Users/kacpe/OneDrive/Studia/PK4/SFML-2.6.1/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\Users\kacpe\OneDrive\Studia\PK4\SFML-2.6.1\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
